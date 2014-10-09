@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://Jay_Gong.github.io/sitemap.xml 
+Sitemap: http://jaygong.me/sitemap.xml 
